@@ -117,7 +117,7 @@
 
         }
 
-        #calculate-total-btn, #new-section-btn {
+        #calculate-total-btn, #new-section-btn, #place-order-btn {
             margin-left: 10px;
             margin-top:10px;
             padding: 10px;
@@ -164,6 +164,7 @@
             <div id="sections-container"></div>
             <button id="new-section-btn" >New Section</button>
             <button id="calculate-total-btn">Calculate Total</button>
+            <button id="place-order-btn">Place Order</button>
             <div id="result"></div>
         </div>
 
